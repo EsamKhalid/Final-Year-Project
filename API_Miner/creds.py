@@ -1,0 +1,2 @@
+API_Key = "RGAPI-74cbb920-da87-49ed-b974-3270af78b059"
+DBPASS = "Esam5002"
